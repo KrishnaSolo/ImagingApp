@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ksolo\\source\\repos\\Splice\\Splice\\Splice.csproj": {}
+    "C:\\Users\\ksolo\\Documents\\GitHub\\ImagingApp\\Splice\\Splice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ksolo\\source\\repos\\Splice\\Splice\\Splice.csproj": {
+    "C:\\Users\\ksolo\\Documents\\GitHub\\ImagingApp\\Splice\\Splice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ksolo\\source\\repos\\Splice\\Splice\\Splice.csproj",
+        "projectUniqueName": "C:\\Users\\ksolo\\Documents\\GitHub\\ImagingApp\\Splice\\Splice.csproj",
         "projectName": "Splice",
-        "projectPath": "C:\\Users\\ksolo\\source\\repos\\Splice\\Splice\\Splice.csproj",
+        "projectPath": "C:\\Users\\ksolo\\Documents\\GitHub\\ImagingApp\\Splice\\Splice.csproj",
         "packagesPath": "C:\\Users\\ksolo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ksolo\\source\\repos\\Splice\\Splice\\obj\\",
+        "outputPath": "C:\\Users\\ksolo\\Documents\\GitHub\\ImagingApp\\Splice\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
