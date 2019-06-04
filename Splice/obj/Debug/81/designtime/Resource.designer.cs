@@ -2384,8 +2384,8 @@ namespace Splice
 			// aapt resource value: 0x7F0C001A
 			public const int bottom = 2131492890;
 			
-			// aapt resource value: 0x7F010004
-			public const int button1 = 2130771972;
+			// aapt resource value: 0x7F010005
+			public const int button1 = 2130771973;
 			
 			// aapt resource value: 0x7F0C001B
 			public const int buttonPanel = 2131492891;
@@ -2690,8 +2690,11 @@ namespace Splice
 			// aapt resource value: 0x7F0C007C
 			public const int textSpacerNoTitle = 2131492988;
 			
+			// aapt resource value: 0x7F010004
+			public const int textView1 = 2130771972;
+			
 			// aapt resource value: 0x7F010002
-			public const int textView1 = 2130771970;
+			public const int textView2 = 2130771970;
 			
 			// aapt resource value: 0x7F0C007D
 			public const int text_input_password_toggle = 2131492989;
