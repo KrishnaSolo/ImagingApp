@@ -18,9 +18,19 @@
         android:drawableTint="#ff1a237e"
         android:layout_gravity="center"/>
     <EditText
-        android:layout_width="match_parent"
+        android:layout_width="275.8dp"
         android:layout_height="wrap_content"
         android:id="@+id/editText1"
         android:text="Krishna"
-        android:textAlignment="center" />
+        android:textAlignment="center"
+        android:layout_marginRight="0.0dp"
+        android:layout_gravity="center" />
+    <Button
+        android:text="Enter"
+        android:layout_width="248.0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/button1"
+        android:foregroundGravity="center_vertical"
+        app:backgroundTint="#fffafafa"
+        android:layout_gravity="center" />
 </LinearLayout>
