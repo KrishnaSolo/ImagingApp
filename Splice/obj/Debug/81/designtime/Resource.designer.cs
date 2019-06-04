@@ -2435,6 +2435,9 @@ namespace Splice
 			// aapt resource value: 0x7F0C002B
 			public const int design_navigation_view = 2131492907;
 			
+			// aapt resource value: 0x7F010003
+			public const int editText1 = 2130771971;
+			
 			// aapt resource value: 0x7F0C002C
 			public const int edit_query = 2131492908;
 			

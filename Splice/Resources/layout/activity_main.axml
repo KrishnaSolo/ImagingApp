@@ -15,5 +15,12 @@
         android:layout_height="wrap_content"
         android:id="@+id/textView1"
         android:backgroundTint="#ffd4caca"
-        android:drawableTint="#ff1a237e" />
+        android:drawableTint="#ff1a237e"
+        android:layout_gravity="center"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText1"
+        android:text="Krishna"
+        android:textAlignment="center" />
 </LinearLayout>

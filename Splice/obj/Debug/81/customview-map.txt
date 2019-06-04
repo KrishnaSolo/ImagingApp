@@ -4,6 +4,7 @@ background;obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
 background;obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
 color;obj\Debug\81\res\values\colors.xml
 color;obj\Debug\81\res\values\ic_launcher_background.xml
+EditText;obj\Debug\81\res\layout\activity_main.xml
 foreground;obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
 foreground;obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
 item;obj\Debug\81\res\values\styles.xml
