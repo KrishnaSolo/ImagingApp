@@ -51,5 +51,6 @@
         android:foregroundGravity="center_vertical"
         app:backgroundTint="#ff757575"
         android:layout_gravity="center"
-        app:backgroundTintMode="src_atop"/>
+        app:backgroundTintMode="src_atop"
+        android:enabled="false" />
 </LinearLayout>
