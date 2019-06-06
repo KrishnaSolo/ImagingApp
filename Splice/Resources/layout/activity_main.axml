@@ -44,12 +44,12 @@
         android:inputType="none|textPassword"
         android:password="true" />
     <Button
-        android:text="Enter"
+        android:text="@string/SubmitLogin"
         android:layout_width="248.0dp"
         android:layout_height="wrap_content"
-        android:id="@+id/button1"
+        android:id="@+id/EnterButton"
         android:foregroundGravity="center_vertical"
-        app:backgroundTint="#ffbdbdbd"
+        app:backgroundTint="#ff757575"
         android:layout_gravity="center"
-        app:backgroundTintMode="src_atop" />
+        app:backgroundTintMode="src_atop"/>
 </LinearLayout>

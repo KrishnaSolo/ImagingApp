@@ -2384,9 +2384,6 @@ namespace Splice
 			// aapt resource value: 0x7F0C001A
 			public const int bottom = 2131492890;
 			
-			// aapt resource value: 0x7F010005
-			public const int button1 = 2130771973;
-			
 			// aapt resource value: 0x7F0C001B
 			public const int buttonPanel = 2131492891;
 			
@@ -2449,6 +2446,9 @@ namespace Splice
 			
 			// aapt resource value: 0x7F0C002E
 			public const int end_padder = 2131492910;
+			
+			// aapt resource value: 0x7F010005
+			public const int EnterButton = 2130771973;
 			
 			// aapt resource value: 0x7F0C0030
 			public const int expanded_menu = 2131492912;
@@ -3146,6 +3146,9 @@ namespace Splice
 			
 			// aapt resource value: 0x7F150001
 			public const int status_bar_notification_info_overflow = 2132082689;
+			
+			// aapt resource value: 0x7F050004
+			public const int SubmitLogin = 2131034116;
 			
 			static String()
 			{

@@ -4,5 +4,6 @@
     <AndroidDesignerPreferredDevice>pixel_2</AndroidDesignerPreferredDevice>
     <AndroidDesignerPreferredTheme>Theme.AppCompat</AndroidDesignerPreferredTheme>
     <SelectedDevice>my_device</SelectedDevice>
+    <DefaultDevice>my_device</DefaultDevice>
   </PropertyGroup>
 </Project>
