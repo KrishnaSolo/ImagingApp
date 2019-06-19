@@ -16,3 +16,15 @@ namespace Core
                 rawa = raw.ToUpperInvariant(a);
                 rawb = raw.ToUpperInvariant(b);
             }
+
+            if (rawa == "Krishna" && rawb == "507136")
+            {
+                return "Login accepted";
+            }
+            else
+                return "failed login"; 
+        }
+    }
+}
+                
+            
