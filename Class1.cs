@@ -13,8 +13,8 @@ namespace Core
 
             else
             {
-                rawa = raw.ToUpperInvariant(a);
-                rawb = raw.ToUpperInvariant(b);
+                var rawa = raw.ToUpperInvariant(a);
+                var rawb = raw.ToUpperInvariant(b);
             }
 
             if (rawa == "Krishna" && rawb == "507136")

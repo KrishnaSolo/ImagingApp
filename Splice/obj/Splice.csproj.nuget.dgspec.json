@@ -15,7 +15,7 @@
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\ProgramData\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\ksolo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -23,20 +23,20 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "monoandroid81"
+          "monoandroid90"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "monoandroid81": {
+          "monoandroid90": {
             "projectReferences": {}
           }
         }
       },
       "frameworks": {
-        "monoandroid81": {
+        "monoandroid90": {
           "dependencies": {
             "Xamarin.Android.Support.Core.Utils": {
               "target": "Package",
